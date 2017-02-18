@@ -1,5 +1,5 @@
 <?php
-$title = "Blaine's World";
+$title = "Blaine's Website";
 include("./base/header.html");
 include("./base/navBar.html");
 include("./content.html");
